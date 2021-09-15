@@ -88,12 +88,12 @@ body {
   margin-bottom: var(--base-space);
 }
 
-.item_thumbnail {
+.item__thumbnail {
   width: var(--size-tumbnail);
   height: var(--size-tumbnail);
 }
 
-.item_desciption {
+.item__description {
   margin-left: var(--base-space);
   font-size: var(--front-size);
 }
