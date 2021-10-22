@@ -1,5 +1,6 @@
 # mini-Shopping
 미니 온라인 쇼핑몰
+URL: https://youngeunchoi-814.github.io/mini-Shopping/
 
 # Screen
 no filtering
